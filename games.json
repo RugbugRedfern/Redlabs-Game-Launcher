@@ -11,16 +11,24 @@
 			"dateModified":"080122020",
 			"screenshots": [
 				{
-					"name":"1.png"
+					"name":"1.png",
+					"external":"false"
 				},
 				{
-					"name":"2.png"
+					"name":"2.png",
+					"external":"false"
 				},
 				{
-					"name":"3.png"
+					"name":"3.png",
+					"external":"false"
 				},
 				{
-					"name":"4.png"
+					"name":"4.png",
+					"external":"false"
+				},
+				{
+					"name":"https://img1.looper.com/img/gallery/things-only-adults-notice-in-shrek/intro-1573597941.jpg",
+					"external":"true"
 				}
 			]
 		},
