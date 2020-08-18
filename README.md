@@ -14,6 +14,7 @@ Each game must have this associated information:
 | tagline | The tagline of the game (one sentence description) |
 | downloadURL | The URL to download the game files |
 | exe | The name of the exe |
+| folder | A custom name for the game folder incase the title includes special characters. Leave this blank for the folder name to default to the title with the spaces replaced by the character - |
 | fileSize | The size of the file, in bytes |
 | dateModified | The date modified in the format MMDDYYYY |
 | version | The current version of the game. This is used to check if the client's game must be updated or not |

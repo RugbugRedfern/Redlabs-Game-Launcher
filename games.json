@@ -6,6 +6,7 @@
 			"tagline":"A co-op online multiplayer puzzle platformer",
 			"downloadURL":"https://example.com",
 			"exe":"Souls of the Grumpps.exe",
+			"folder":"",
 			"fileSize":"26",
 			"dateModified":"080122020"
 		},
@@ -15,6 +16,7 @@
 			"tagline":"A free multiplayer FPS with many gamemodes and weapons",
 			"downloadURL":"https://example.com",
 			"exe":"Redmatch.exe",
+			"folder":"",
 			"fileSize":"444",
 			"dateModified":"08062019"
 		},
@@ -24,6 +26,7 @@
 			"tagline":"A free online multiplayer FPS where you upgrade your stats with kills!",
 			"downloadURL":"https://example.com",
 			"exe":"Redmatch 2.exe",
+			"folder":"",
 			"fileSize":"111",
 			"dateModified":"06062020"
 		},
@@ -33,6 +36,7 @@
 			"tagline":"",
 			"downloadURL":"",
 			"exe":"",
+			"folder":"",
 			"fileSize":"",
 			"dateModified":""
 		},
@@ -42,6 +46,7 @@
 			"tagline":"",
 			"downloadURL":"",
 			"exe":"",
+			"folder":"",
 			"fileSize":"",
 			"dateModified":""
 		},
@@ -51,6 +56,7 @@
 			"tagline":"",
 			"downloadURL":"",
 			"exe":"",
+			"folder":"",
 			"fileSize":"",
 			"dateModified":""
 		},
@@ -60,6 +66,7 @@
 			"tagline":"",
 			"downloadURL":"",
 			"exe":"",
+			"folder":"",
 			"fileSize":"",
 			"dateModified":""
 		},
@@ -69,6 +76,27 @@
 			"tagline":"",
 			"downloadURL":"",
 			"exe":"",
+			"folder":"",
+			"fileSize":"",
+			"dateModified":""
+		},
+		{
+			"title":"Evolve Much?",
+			"description":"",
+			"tagline":"",
+			"downloadURL":"",
+			"exe":"",
+			"folder":"Evolve-Much",
+			"fileSize":"",
+			"dateModified":""
+		},
+		{
+			"title":"Red Snow",
+			"description":"",
+			"tagline":"",
+			"downloadURL":"",
+			"exe":"",
+			"folder":"",
 			"fileSize":"",
 			"dateModified":""
 		}
