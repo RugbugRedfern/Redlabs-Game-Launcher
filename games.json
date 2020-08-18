@@ -1,0 +1,18 @@
+{
+	"game": [
+		{
+			"title":"Souls of the Grumpps",
+			"tagline":"A co-op online multiplayer puzzle platformer",
+			"description":"SOTG desc",
+			"download":"Souls_of_the_Grumpps",
+			"date-modified":"080122020"
+		},
+		{
+			"title":"Upward Restriction",
+			"tagline":"A climbing game with unconventional controls",
+			"description":"UR desc",
+			"download":"Upward_Restriction",
+			"date-modified":"080122020"
+		}
+	]
+}
