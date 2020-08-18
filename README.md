@@ -2,6 +2,10 @@
 
 This repository contains all of the necessary data for the Redlabs Game Launcher to retrieve info about the current available games.
 
+## Usage
+
+The file `games.json` contains all of the info for the available games.
+
 Each game must have this associated information:
 ```csharp
 title // The game title
