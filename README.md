@@ -17,3 +17,5 @@ Each game must have this associated information:
 | file-size | The size of the file, in bytes |
 | date-modified | The date modified in the format MMDDYYYY |
 | version | The current version of the game. This is used to check if the client's game must be updated or not |
+
+Each game must have a folder with the necessary images. The folder name is the same as the game title.
