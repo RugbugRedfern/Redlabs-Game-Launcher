@@ -8,7 +8,21 @@
 			"exe":"Souls of the Grumpps.exe",
 			"folder":"",
 			"fileSize":"26",
-			"dateModified":"080122020"
+			"dateModified":"080122020",
+			"screenshots": [
+				{
+					"name":"1.png"
+				},
+				{
+					"name":"2.png"
+				},
+				{
+					"name":"3.png"
+				},
+				{
+					"name":"4.png"
+				}
+			]
 		},
 		{
 			"title":"Redmatch",
@@ -18,7 +32,10 @@
 			"exe":"Redmatch.exe",
 			"folder":"",
 			"fileSize":"444",
-			"dateModified":"08062019"
+			"dateModified":"08062019",
+			"screenshots": [
+				
+			]
 		},
 		{
 			"title":"Redmatch 2",
@@ -28,7 +45,10 @@
 			"exe":"Redmatch 2.exe",
 			"folder":"",
 			"fileSize":"111",
-			"dateModified":"06062020"
+			"dateModified":"06062020",
+			"screenshots": [
+				
+			]
 		},
 		{
 			"title":"Upward Restriction",
@@ -38,7 +58,10 @@
 			"exe":"",
 			"folder":"",
 			"fileSize":"",
-			"dateModified":""
+			"dateModified":"",
+			"screenshots": [
+				
+			]
 		},
 		{
 			"title":"Retro Target 3D",
@@ -48,7 +71,10 @@
 			"exe":"",
 			"folder":"",
 			"fileSize":"",
-			"dateModified":""
+			"dateModified":"",
+			"screenshots": [
+				
+			]
 		},
 		{
 			"title":"Bullet Health",
@@ -58,7 +84,10 @@
 			"exe":"",
 			"folder":"",
 			"fileSize":"",
-			"dateModified":""
+			"dateModified":"",
+			"screenshots": [
+				
+			]
 		},
 		{
 			"title":"Adrift",
@@ -68,7 +97,10 @@
 			"exe":"",
 			"folder":"",
 			"fileSize":"",
-			"dateModified":""
+			"dateModified":"",
+			"screenshots": [
+				
+			]
 		},
 		{
 			"title":"Adrift Multiplayer",
@@ -78,7 +110,10 @@
 			"exe":"",
 			"folder":"",
 			"fileSize":"",
-			"dateModified":""
+			"dateModified":"",
+			"screenshots": [
+				
+			]
 		},
 		{
 			"title":"Evolve Much?",
@@ -88,7 +123,10 @@
 			"exe":"",
 			"folder":"Evolve-Much",
 			"fileSize":"",
-			"dateModified":""
+			"dateModified":"",
+			"screenshots": [
+				
+			]
 		},
 		{
 			"title":"Red Snow",
@@ -98,7 +136,10 @@
 			"exe":"",
 			"folder":"",
 			"fileSize":"",
-			"dateModified":""
+			"dateModified":"",
+			"screenshots": [
+				
+			]
 		}
 	]
 }

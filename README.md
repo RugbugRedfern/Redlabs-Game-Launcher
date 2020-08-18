@@ -18,5 +18,6 @@ Each game must have this associated information:
 | fileSize | The size of the file, in bytes |
 | dateModified | The date modified in the format MMDDYYYY |
 | version | The current version of the game. This is used to check if the client's game must be updated or not |
+| screenshots | The image names of screenshots for the game. The screenshot images must be in a subfolder of the game folder called "Screenshots". Preface it with <www> if it is an external link. In the case of an external link, the screenshots do not need to be in the screenshots folder. |
 
 Each game must have a folder with the necessary images. The folder name is the same as the game title, with the spaces replaced by the character -.
