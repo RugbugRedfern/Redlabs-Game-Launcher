@@ -10,7 +10,7 @@ Each game must have this associated information:
 | Variable | Description |
 |----------|------------ |
 | title | The game title |
-| description | he description of the game |
+| description | The game description |
 | tagline | The tagline of the game (one sentence description) |
 | download-url | The URL to download the game files |
 | exe | The name of the exe |
