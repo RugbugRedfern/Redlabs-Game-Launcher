@@ -6,7 +6,7 @@
 			"tagline":"A co-op online multiplayer puzzle platformer",
 			"downloadURL":"https://example.com",
 			"exe":"Souls of the Grumpps.exe",
-			"fileSize":"12345",
+			"fileSize":"26",
 			"dateModified":"080122020"
 		},
 		{
@@ -15,8 +15,44 @@
 			"tagline":"A free multiplayer FPS with many gamemodes and weapons",
 			"downloadURL":"https://example.com",
 			"exe":"Redmatch.exe",
-			"fileSize":"56789",
+			"fileSize":"444",
 			"dateModified":"08062019"
+		},
+		{
+			"title":"Redmatch 2",
+			"description":"Redmatch 2 is a free online multiplayer first person shooter with 13 maps and a few weapons and gamemodes to choose from. Upgrade your players stats in-game using kill-points to get an advantage! Perfect for a few matches with friends or playing with people from our discord server.",
+			"tagline":"A free online multiplayer FPS where you upgrade your stats with kills!",
+			"downloadURL":"https://example.com",
+			"exe":"Redmatch 2.exe",
+			"fileSize":"111",
+			"dateModified":"06062020"
+		},
+		{
+			"title":"Upward Restriction",
+			"description":"",
+			"tagline":"",
+			"downloadURL":"",
+			"exe":"",
+			"fileSize":"",
+			"dateModified":""
+		},
+		{
+			"title":"Retro Target 3D",
+			"description":"",
+			"tagline":"",
+			"downloadURL":"",
+			"exe":"",
+			"fileSize":"",
+			"dateModified":""
+		},
+		{
+			"title":"Bullet Health",
+			"description":"",
+			"tagline":"",
+			"downloadURL":"",
+			"exe":"",
+			"fileSize":"",
+			"dateModified":""
 		}
 	]
 }
