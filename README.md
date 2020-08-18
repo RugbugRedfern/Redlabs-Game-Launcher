@@ -13,6 +13,6 @@ description // The description of the game
 tagline // The tagline of the game (one sentence description)
 download-url // The URL to download the game files
 exe // The name of the exe
-date-modified // The date modified in the format MMDDYYYY
 file-size // The size of the file, in bytes
+date-modified // The date modified in the format MMDDYYYY
 ```
