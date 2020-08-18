@@ -1,4 +1,6 @@
-# Redlabs Game Launcher
+# Redlabs Game Launcher Data
+
+This repository contains all of the necessary data for the Redlabs Game Launcher to retrieve info about the current available games.
 
 Each game must have this associated information:
 ```csharp
