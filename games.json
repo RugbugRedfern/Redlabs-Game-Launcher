@@ -4,19 +4,19 @@
 			"title":"Souls of the Grumpps",
 			"description":"Souls of the Grumpps is a puzzle game for 2 players.\nYou are the Grumpps. You come from one of the biggest Grumpp families in existence. Like all Grumpps, you are always grumpy. But you want something more. You want to be happy. Escape the depths of your grumpy world with your son, and bring happiness to yourself and every other Grumpp.\nUse your soul-reuniting powers to solve puzzles with your friend!",
 			"tagline":"A co-op online multiplayer puzzle platformer",
-			"download-url":"https://example.com",
+			"downloadURL":"https://example.com",
 			"exe":"Souls of the Grumpps.exe",
-			"file-size":"12345",
-			"date-modified":"080122020"
+			"fileSize":"12345",
+			"dateModified":"080122020"
 		},
 		{
 			"title":"Redmatch",
 			"description":"Redmatch is a 100% free multiplayer FPS with multiple gamemodes such as Skirmish, TTT (Trouble in Terrorist Town), Infection, Gun Game, and Battle Royale (if you're into that kind of thing). It features many different weapons and 50+ different skins, as well as 7 completely unique maps.\nPlay to unlock cool animated skins and earn your place on the leaderboards or just chill out with friends for some quick gameplay!",
 			"tagline":"A free multiplayer FPS with many gamemodes and weapons",
-			"download-url":"https://example.com",
+			"downloadURL":"https://example.com",
 			"exe":"Redmatch.exe",
-			"file-size":"56789",
-			"date-modified":"08062019"
+			"fileSize":"56789",
+			"dateModified":"08062019"
 		}
 	]
 }
