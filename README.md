@@ -1,7 +1,7 @@
 # Redlabs Game Launcher
 
 Each game must have this associated information:
-```json
+```csharp
 title // The game title
 description // The description of the game
 tagline // The tagline of the game (one sentence description)
