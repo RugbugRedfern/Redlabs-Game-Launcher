@@ -2,8 +2,8 @@
 	"games": [
 		{
 			"title":"Souls of the Grumpps",
-			"description":"Souls of the Grumpps is a puzzle game for 2 players.\nYou are the Grumpps. You come from one of the biggest Grumpp families in existence. Like all Grumpps, you are always grumpy. But you want something more. You want to be happy. Escape the depths of your grumpy world with your son, and bring happiness to yourself and every other Grumpp.\nUse your soul-reuniting powers to solve puzzles with your friend!",
-			"tagline":"A co-op online multiplayer puzzle platformer",
+			"description":"Souls of the Grumpps is an online multiplayer puzzle platformer for 2 players.\nYou are the Grumpps. You come from one of the biggest Grumpp families in existence. Like all Grumpps, you are always grumpy. But you want something more. You want to be happy. Escape the depths of your grumpy world with your son, and bring happiness to yourself and every other Grumpp.\nUse your soul-reuniting powers to solve puzzles with your friend!",
+			"tagline":"An online multiplayer co-op puzzle platformer",
 			"downloadURL":"https://example.com",
 			"exe":"Souls of the Grumpps.exe",
 			"folder":"",
@@ -25,10 +25,42 @@
 				{
 					"name":"4.png",
 					"external":"false"
+				}
+			]
+		},
+		{
+			"title":"Redmatch 2",
+			"description":"Redmatch 2 is a free online multiplayer first person shooter with 13 maps and a variety weapons and gamemodes to choose from. Upgrade your players stats in-game using kill-points to get an advantage! Perfect for a few matches with friends or playing with people from our discord server.",
+			"tagline":"A free online multiplayer FPS where you upgrade your stats with kills!",
+			"downloadURL":"https://example.com",
+			"exe":"Redmatch 2.exe",
+			"folder":"",
+			"fileSize":"111",
+			"dateModified":"06062020",
+			"screenshots": [
+				{
+					"name":"1.png",
+					"external":"false"
 				},
 				{
-					"name":"https://img1.looper.com/img/gallery/things-only-adults-notice-in-shrek/intro-1573597941.jpg",
-					"external":"true"
+					"name":"2.png",
+					"external":"false"
+				},
+				{
+					"name":"3.png",
+					"external":"false"
+				},
+				{
+					"name":"4.png",
+					"external":"false"
+				},
+				{
+					"name":"5.png",
+					"external":"false"
+				},
+				{
+					"name":"6.png",
+					"external":"false"
 				}
 			]
 		},
@@ -42,111 +74,238 @@
 			"fileSize":"444",
 			"dateModified":"08062019",
 			"screenshots": [
-				
-			]
-		},
-		{
-			"title":"Redmatch 2",
-			"description":"Redmatch 2 is a free online multiplayer first person shooter with 13 maps and a few weapons and gamemodes to choose from. Upgrade your players stats in-game using kill-points to get an advantage! Perfect for a few matches with friends or playing with people from our discord server.",
-			"tagline":"A free online multiplayer FPS where you upgrade your stats with kills!",
-			"downloadURL":"https://example.com",
-			"exe":"Redmatch 2.exe",
-			"folder":"",
-			"fileSize":"111",
-			"dateModified":"06062020",
-			"screenshots": [
-				
+				{
+					"name":"1.png",
+					"external":"false"
+				},
+				{
+					"name":"2.png",
+					"external":"false"
+				},
+				{
+					"name":"3.png",
+					"external":"false"
+				},
+				{
+					"name":"4.png",
+					"external":"false"
+				},
+				{
+					"name":"5.png",
+					"external":"false"
+				},
+				{
+					"name":"6.png",
+					"external":"false"
+				},
+				{
+					"name":"7.png",
+					"external":"false"
+				}
 			]
 		},
 		{
 			"title":"Upward Restriction",
-			"description":"",
-			"tagline":"",
+			"description":"Fling yourself to victory and obtain a position on the global leaderboards! It's a perfect day for cannon climbing.",
+			"tagline":"Climb to the goal and get the world record!",
 			"downloadURL":"",
-			"exe":"",
+			"exe":"Upward Restriction.exe",
 			"folder":"",
-			"fileSize":"",
-			"dateModified":"",
+			"fileSize":"95",
+			"dateModified":"07022020",
 			"screenshots": [
-				
+				{
+					"name":"1.png",
+					"external":"false"
+				},
+				{
+					"name":"2.png",
+					"external":"false"
+				},
+				{
+					"name":"3.png",
+					"external":"false"
+				},
+				{
+					"name":"4.png",
+					"external":"false"
+				},
+				{
+					"name":"5.png",
+					"external":"false"
+				}
 			]
 		},
 		{
 			"title":"Retro Target 3D",
-			"description":"",
-			"tagline":"",
+			"description":"Retro Target 3D is a retro target shooter with global leaderboards and 20 different color palettes to unlock. Compete with friends to get the highest score or relax with a short round.\nLook around with your mouse and shoot the targets to destroy them. Getting a bullseye gives you 3 seconds of time back, and just hitting it will give you 2 seconds back. Race against the clock to compete for the highest score!",
+			"tagline":"A target arcade shooter with global leaderboards and customizational unlocks",
 			"downloadURL":"",
-			"exe":"",
+			"exe":"Retro Target 3D.exe",
 			"folder":"",
-			"fileSize":"",
-			"dateModified":"",
+			"fileSize":"18",
+			"dateModified":"12292019",
 			"screenshots": [
-				
+				{
+					"name":"1.png",
+					"external":"false"
+				},
+				{
+					"name":"2.png",
+					"external":"false"
+				},
+				{
+					"name":"3.png",
+					"external":"false"
+				},
+				{
+					"name":"4.png",
+					"external":"false"
+				},
+				{
+					"name":"5.png",
+					"external":"false"
+				},
+				{
+					"name":"6.png",
+					"external":"false"
+				}
 			]
 		},
 		{
-			"title":"Bullet Health",
-			"description":"",
-			"tagline":"",
+			"title":"BulletHealth",
+			"description":"Each shot takes away some of your health, which you can regain by killing enemies.\nThis game has 8 levels! After beating level 6 or above, you will unlock Endless mode which can be accessed from the level select!",
+			"tagline":"A fast paced shooter where firing your gun can get you killed!",
 			"downloadURL":"",
-			"exe":"",
+			"exe":"BulletHealth.exe",
 			"folder":"",
-			"fileSize":"",
-			"dateModified":"",
+			"fileSize":"17",
+			"dateModified":"12022018",
 			"screenshots": [
-				
+				{
+					"name":"1.png",
+					"external":"false"
+				},
+				{
+					"name":"2.png",
+					"external":"false"
+				},
+				{
+					"name":"3.png",
+					"external":"false"
+				},
+				{
+					"name":"4.png",
+					"external":"false"
+				}
 			]
 		},
 		{
 			"title":"Adrift",
-			"description":"",
-			"tagline":"",
+			"description":"Adrift is a low-poly survival game in a multi-dimensional realm. Collect resources and craft tools which you can use to fully automate your world!\nIn game, you can access a help menu by pressing [ESC] and then clicking \"Help.\"",
+			"tagline":"A survival game which takes place in a multi-dimensional realm.",
 			"downloadURL":"",
-			"exe":"",
+			"exe":"Adrift.exe",
 			"folder":"",
-			"fileSize":"",
-			"dateModified":"",
+			"fileSize":"53",
+			"dateModified":"01202019",
 			"screenshots": [
-				
+				{
+					"name":"1.png",
+					"external":"false"
+				},
+				{
+					"name":"2.png",
+					"external":"false"
+				},
+				{
+					"name":"3.png",
+					"external":"false"
+				},
+				{
+					"name":"4.png",
+					"external":"false"
+				}
 			]
 		},
 		{
 			"title":"Adrift Multiplayer",
-			"description":"",
-			"tagline":"",
+			"description":"Adrift is a low-poly survival game in a multi-dimensional realm. Collect resources and craft tools which you can use to fully automate your world!\nIn game, you can access a help menu by pressing [ESC] and then clicking \"Help.\"\nThis is the multiplayer port of Adrift. You can host and join other players' games. Keep in mind that there are no private games. If you want to play by yourself or offline, download the normal version of Adrift instead.",
+			"tagline":"A multiplayer port of the survival game which takes place in a multi-dimensional realm.",
 			"downloadURL":"",
-			"exe":"",
+			"exe":"Adrift.exe",
 			"folder":"",
-			"fileSize":"",
-			"dateModified":"",
+			"fileSize":"60",
+			"dateModified":"07182020",
 			"screenshots": [
-				
+				{
+					"name":"1.png",
+					"external":"false"
+				},
+				{
+					"name":"2.png",
+					"external":"false"
+				},
+				{
+					"name":"3.png",
+					"external":"false"
+				},
+				{
+					"name":"4.png",
+					"external":"false"
+				}
 			]
 		},
 		{
 			"title":"Evolve Much?",
-			"description":"",
-			"tagline":"",
+			"description":"A 2D simulation of creatures competing for food. Speed up and slow down the simulation while observing the creatures compete and evolve into better, more efficient forms.\nIt's pretty interesting just to watch them move, and find the best possible properties for a creature to survive in the wild.",
+			"tagline":"A simulation of 2D creatures competing for food",
 			"downloadURL":"",
-			"exe":"",
+			"exe":"Evolve Much.exe",
 			"folder":"Evolve-Much",
-			"fileSize":"",
-			"dateModified":"",
+			"fileSize":"58",
+			"dateModified":"04282018",
 			"screenshots": [
-				
+				{
+					"name":"1.png",
+					"external":"false"
+				},
+				{
+					"name":"2.png",
+					"external":"false"
+				},
+				{
+					"name":"3.png",
+					"external":"false"
+				},
+				{
+					"name":"4.png",
+					"external":"false"
+				},
+				{
+					"name":"5.png",
+					"external":"false"
+				}
 			]
 		},
 		{
 			"title":"Red Snow",
-			"description":"",
-			"tagline":"",
+			"description":"ISNOWLATION! You are an elite ski tourist on a near isolated ski resort planet, uncovering the secrets of the slopes. Play with interactive characters and forge your own hero's journey. Be deceived, offered human teeth, and possibly even killed. Accompany your friend and explore the depths of this innocent planet, journeying a masked battlefield of snow. Meet your mentor to learn about the truth and discover the antagonist's motives! Explore on foot or through conversation!\nRed Snow is a short story game made by a team of 3 for a school project.",
+			"tagline":"A short interactive fiction game taking place on a ski resort planet",
 			"downloadURL":"",
-			"exe":"",
+			"exe":"Red Snow.exe",
 			"folder":"",
-			"fileSize":"",
-			"dateModified":"",
+			"fileSize":"40",
+			"dateModified":"01052020",
 			"screenshots": [
-				
+				{
+					"name":"1.png",
+					"external":"false"
+				},
+				{
+					"name":"2.png",
+					"external":"false"
+				}
 			]
 		}
 	]
