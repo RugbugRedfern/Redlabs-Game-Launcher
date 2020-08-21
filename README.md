@@ -12,7 +12,7 @@ Each game must have this associated information:
 | title | The game title. |
 | description | The game description. |
 | tagline | The tagline of the game (one sentence description). |
-| downloadURL | The URL to download the game files. |
+| downloadData | Should have 3 values, "win" "osx" and "linux" with google drive download links. |
 | exe | The name of the exe. |
 | folder | A custom name for the game folder incase the title includes special characters. Leave this blank for the folder name to default to the title with the spaces replaced by the character _. |
 | fileSize | The size of the file, in bytes. |
