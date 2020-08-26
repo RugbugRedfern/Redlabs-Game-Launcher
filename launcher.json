@@ -3,24 +3,9 @@
 	"dateModified":"08222020",
 	"downloadData": [
 		{
-			"win":[
-				{
-					"url":"https://drive.google.com/file/d/19fPzW_LLncF7BSSHOTs_4AV3oxxeGMoL/view?usp=sharing",
-					"run":"Redlabs Game Launcher.exe"
-				}
-			],
-			"osx":[
-				{
-					"url":"https://drive.google.com/file/d/19fPzW_LLncF7BSSHOTs_4AV3oxxeGMoL/view?usp=sharing",
-					"run":"Redlabs Game Launcher.app"
-				}
-			],
-			"linux":[
-				{
-					"url":"https://drive.google.com/file/d/19fPzW_LLncF7BSSHOTs_4AV3oxxeGMoL/view?usp=sharing",
-					"run":"Redlabs Game Launcher.x86_64"
-				}
-			]
+			"platform":"win",
+			"downloadURL":"https://drive.google.com/file/d/19fPzW_LLncF7BSSHOTs_4AV3oxxeGMoL/view?usp=sharing",
+			"run":"Redlabs Game Launcher.exe"
 		}
 	]
 }
