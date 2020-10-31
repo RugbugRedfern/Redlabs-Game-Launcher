@@ -4,22 +4,19 @@ This repository contains all of the necessary data for the Redlabs Game Launcher
 
 ## Usage
 
-The file `games.json` contains all of the info for the available games.
+The file `master.json` contains a list of URLS to all of the available games.
+Each URL must link to a JSON file containing the following information:
 
-Each game must have this associated information:
-| Variable | Description |
-|----------|------------ |
-| title | The game title. |
-| description | The game description. |
-| tagline | The tagline of the game (one sentence description). |
-| downloadData | Should have 3 values, "win" "osx" and "linux" with google drive download links. |
-| exe | The name of the exe. |
-| folder | A custom name for the game folder incase the title includes special characters. Leave this blank for the folder name to default to the title with the spaces replaced by the character _. |
-| fileSize | The size of the file, in bytes. |
-| dateModified | The date modified in the format MMDDYYYY. |
-| version | The current version of the game. This is used to check if the client's game must be updated or not. |
-| externalLink | An optional link that will display above the description. |
-| externalLinkInfo | The text which when clicked redirects to the external-link. If no external-link is specified, the text will simply be static. |
-| screenshots | The image names of screenshots for the game. The screenshot images must be in a subfolder of the game folder called "Screenshots". In the case of an external link, the screenshots do not need to be in the screenshots folder. Elements of the screenshots array must have two elements, "name" (string) and "external" (bool). If the link is external, the name should be the URL of the image. If the link is internal, the name should just be the name of the image (with the extension). |
+| Variable | Description | Example |
+|----------|-------------|---------|
+| title | The game title. | Adrift |
+| description | The game description. | A low-poly survival game in a multi-dimensional realm. Collect resources and craft tools to fully automate your world! |
+| tagline | The tagline of the game (one sentence description). | A survival game which takes place in a multi-dimensional realm. |
+| color | The color of the game's page in the launcher. HEX format. | 53BA4D |
+| downloadURL | The URL for the game download. | https://drive.google.com/file/d/1W-161CKM8fUfA97XPWNtIxOeCkeV93ce/view?usp=sharing |
+| run | The file to run in order to launch the game. | Adrift.exe |
+| fileSize | The size of the file, in megabytes. | 53 |
+| screenshots | The image URLS for screenshots of the game as an array. Include https:// at the start of the URL if it is an external link. | "Screenshots/1.png", "Screenshots/2.png" |
+| changelog | The changelog for the game as an array. | "version":"0.2.9", "date":"10302020", "title":"Launcher Release", "content":"Adrift has been released on the Redlabs Launcher!", "image":"Changelog/0.2.9.png" |
 
 Each game must have a folder with the necessary images. The folder name is the same as the game title, with the spaces replaced by the character _.

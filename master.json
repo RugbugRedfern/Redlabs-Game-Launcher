@@ -1,0 +1,10 @@
+{
+	"version":"0.0.1",
+	"dateModified":"08222020",
+	"downloadURL":"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/raw/master/LauncherData/Launcher.zip",
+	"games": [
+		{
+			"infoURL": "https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/raw/master/Games/Adrift/info.json"
+		}
+	]
+}
