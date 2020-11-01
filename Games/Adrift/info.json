@@ -6,14 +6,19 @@
 	"downloadURL":"https://drive.google.com/file/d/1W-161CKM8fUfA97XPWNtIxOeCkeV93ce/view?usp=sharing",
 	"run":"Adrift.exe",
 	"fileSize":"53",
-	"screenshots":[ "Screenshots/1.png", "Screenshots/2.png", "Screenshots/3.png", "Screenshots/4.png" ],
+	"screenshots":[
+		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/1.png",
+		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/2.png",
+		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/3.png",
+		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/4.png"
+	],
 	"changelog":[
 		{
 			"version":"0.2.9",
-			"date":"10302020",
+			"date":"10/30/2020",
 			"title":"Launcher Release",
 			"content":"Adrift has been released on the Redlabs Launcher!",
-			"image":"Changelog/0.2.9.png"
+			"image":"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Changelog/0.2.9.png"
 		}
 	]
 }
