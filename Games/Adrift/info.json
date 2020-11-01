@@ -3,10 +3,15 @@
 	"description":"A low-poly survival game in a multi-dimensional realm. Collect resources and craft tools to fully automate your world!\nIn game, you can access a help menu by pressing [ESC] and then clicking \"Help.\"",
 	"tagline":"A survival game which takes place in a multi-dimensional realm.",
 	"color":"53BA4D",
-	"downloadURL":"https://drive.google.com/file/d/1W-161CKM8fUfA97XPWNtIxOeCkeV93ce/view?usp=sharing",
+	"download":"https://drive.google.com/file/d/1W-161CKM8fUfA97XPWNtIxOeCkeV93ce/view?usp=sharing",
 	"run":"Adrift.exe",
 	"fileSize":"53",
-	"screenshots":["https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/1.png","https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/2.png","https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/3.png","https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/4.png"],
+	"screenshots":[
+		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/1.png",
+		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/2.png",
+		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/3.png",
+		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/4.png"
+	],
 	"changelog":[
 		{
 			"version":"0.2.9",
