@@ -8,10 +8,10 @@
 	"fileSize":"53",
 	"thumbnail":"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/thumbnail.png?raw=true",
 	"screenshots":[
-		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/1.png",
-		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/2.png",
-		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/3.png",
-		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/4.png"
+		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/1.png?raw=true",
+		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/2.png?raw=true",
+		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/3.png?raw=true",
+		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Screenshots/4.png?raw=true"
 	],
 	"changelog":[
 		{
@@ -19,7 +19,7 @@
 			"date":"10/30/2020",
 			"title":"Launcher Release",
 			"content":"Adrift has been released on the Redlabs Launcher!",
-			"image":"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Changelog/0.2.9.png"
+			"image":"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/Changelog/0.2.9.png?raw=true"
 		}
 	]
 }
