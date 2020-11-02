@@ -6,12 +6,12 @@
 	"download":"https://drive.google.com/file/d/16aNJY6DoO5NDLTMxCJ9Oywi7fYtPru4J/view?usp=sharing", 
 	"run":"BulletHealth.exe",
 	"fileSize":"18",
-	"thumbnail":"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/Adrift/thumbnail.png?raw=true",
+	"thumbnail":"thumbnail.png?raw=true",
 	"screenshots":[
-		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/BulletHealth/Screenshots/1.png?raw=true",
-		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/BulletHealth/Screenshots/2.png?raw=true",
-		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/BulletHealth/Screenshots/3.png?raw=true",
-		"https://github.com/RugbugRedfern/Redlabs-Game-Launcher-Data/blob/master/Games/BulletHealth/Screenshots/4.png?raw=true"
+		"Screenshots/1.png?raw=true",
+		"Screenshots/2.png?raw=true",
+		"Screenshots/3.png?raw=true",
+		"Screenshots/4.png?raw=true"
 	],
 	"changelog":[
 
