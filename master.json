@@ -5,6 +5,9 @@
 	"games": [
 		"Games/Adrift/info.json",
 		"Games/Adrift_Multiplayer/info.json",
-		"Games/BulletHealth/info.json"
+		"Games/BulletHealth/info.json",
+		"Games/Evolve_Much/info.json",
+		"Games/Red_Snow/info.json",
+		"Games/Redmatch/info.json"
 	]
 }

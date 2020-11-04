@@ -1,0 +1,20 @@
+{
+	"title":"Evolve Much?",
+	"description":"A 2D simulation of creatures competing for food. Speed up and slow down the simulation while observing the creatures compete and evolve into better, more efficient forms.\nIt's pretty interesting just to watch them move, and find the best possible properties for a creature to survive in the wild.",
+	"tagline":"A 2D simulation of creatures competing for food.",
+	"color":"53BA4D",
+	"download":"https://drive.google.com/file/d/16aNJY6DoO5NDLTMxCJ9Oywi7fYtPru4J/view?usp=sharing", 
+	"run":"EvolveMuch.exe",
+	"fileSize":"57",
+	"thumbnail":"thumbnail.png?raw=true",
+	"screenshots":[
+		"Screenshots/1.png?raw=true",
+		"Screenshots/2.png?raw=true",
+		"Screenshots/3.png?raw=true",
+		"Screenshots/4.png?raw=true",
+		"Screenshots/5.png?raw=true"
+	],
+	"changelog":[
+
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"title":"Red Snow",
+	"description":"A multiplayer version of Adrift, a low-poly survival game in a multi-dimensional realm. Collect resources and craft tools to fully automate your world!\nIn game, you can access a help menu by pressing [ESC] and then clicking \"Help.\"",
+	"tagline":"A multiplayer version of the survival game which takes place in a multi-dimensional realm.",
+	"color":"53BA4D",
+	"download":"https://drive.google.com/file/d/1W-161CKM8fUfA97XPWNtIxOeCkeV93ce/view?usp=sharing",
+	"run":"Adrift.exe",
+	"fileSize":"53",
+	"thumbnail":"thumbnail.png?raw=true",
+	"screenshots":[
+		"Screenshots/1.png?raw=true",
+		"Screenshots/2.png?raw=true"
+	],
+	"changelog":[
+		
+	]
+}
